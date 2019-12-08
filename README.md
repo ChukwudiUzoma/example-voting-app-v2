@@ -1,1 +1,1 @@
-ample voting app for docker stack
+Using deployments instead of pods to implement a simple voting app which demonstrates various stacks in docker 
